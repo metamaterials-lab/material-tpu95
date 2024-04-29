@@ -17,6 +17,6 @@ Additional Information
 The mechanical properties data included in this repository were obtained from 7 tensile tests conducted on the described material.
 
 ## License
-The experimental data in this repository is provided under the Creative Commons Attribution 4.0 International License. 
+The experimental data in this repository is provided under the MIT License. 
 
 Thank you for visiting!
