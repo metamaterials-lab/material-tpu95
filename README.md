@@ -1,6 +1,6 @@
 # material-tpu95
 
-This repository contains experimental data from tensile tests conducted on white Ultimaker® TPU 95A. Below are details about the equipment, type of test, and material properties:
+This repository contains experimental data from tensile tests conducted on Ultimaker® TPU 95A. Below are details about the equipment, type of test, and material properties:
 
 ## Equipment Used
 The tensile tests were performed using a Shimadzu® AG X-V2 universal testing machine, manufactured in Kioto, Japan. The tests were conducted at a loading rate of 0.1mm/s.
@@ -10,7 +10,7 @@ The tensile tests were conducted according to the ASTM D638 standard for dogbone
 The dogbone samples were oriented parallel to the tensile loading direction.
 
 ## Material Properties
-Material: White Ultimaker® TPU 95A
+Material: Ultimaker® TPU 95A
 Printing Method: Additive manufacturing
 Printer Used: Ultimaker® 3 printer
 Additional Information
