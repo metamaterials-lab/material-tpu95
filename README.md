@@ -6,8 +6,8 @@ This repository contains experimental data from tensile tests conducted on Ultim
 The tensile tests were performed using a Shimadzu® AG X-V2 universal testing machine, manufactured in Kioto, Japan. The tests were conducted at a loading rate of 0.1mm/s.
 
 ## Type of Test
-The tensile tests were conducted according to the ASTM D638 standard for dogbone samples. This standard specifies the test method for tensile properties of plastics. Variation V was utilized.
-The dogbone samples were oriented parallel to the tensile loading direction.
+The tensile tests were conducted according to the ASTM D638 V standard for dogbone samples. This standard specifies the test method for tensile properties of plastics.
+The samples were printed with rasters oriented parallel to the tensile loading direction.
 
 ## Material Properties
 Material: Ultimaker® TPU 95A
